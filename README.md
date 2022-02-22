@@ -51,3 +51,8 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
 
+
+
+## 🔥 My projects:
+
+- [deviceDetection](https://github.com/mengmugai/deviceDetection) - 用于识别安卓手机设备信息及检测环境情况
