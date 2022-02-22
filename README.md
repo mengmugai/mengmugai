@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://visitor-badge.glitch.me/badge?page_id=mengmugai)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=mengmugai) -->
 ![](http://antzuhl.cn:4000/get/@mengmugai)
 ![info](https://github-readme-stats.vercel.app/api?username=mengmugai&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
