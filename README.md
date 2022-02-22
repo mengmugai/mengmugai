@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://visitor-badge.glitch.me/badge?page_id=mengmugai)
+![](http://antzuhl.cn:4000/get/@mengmugai)
+![info](https://github-readme-stats.vercel.app/api?username=mengmugai&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+# mac卡片
+[![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
+
+# 手机设备
+[![](https://img.shields.io/badge/Honor-V30-f5010c?style=flat-square&logo=huawei&logoColor=ffffff)](https://www.apple.com/)
