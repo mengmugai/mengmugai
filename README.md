@@ -56,3 +56,4 @@ Here are some ideas to get you started:
 ## 🔥 My projects:
 
 - [deviceDetection](https://github.com/mengmugai/deviceDetection) - 用于识别安卓手机设备信息及检测环境情况
+- [HookTracerPid](https://github.com/mengmugai/HookTracerPid) ele7版inlinehook ↑这个项目的TracerPid  inlinehook的一个dome
