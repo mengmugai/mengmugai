@@ -58,3 +58,4 @@ Here are some ideas to get you started:
 - [deviceDetection](https://github.com/mengmugai/deviceDetection) - 用于识别安卓手机设备信息及检测环境情况
 - [HookTracerPid](https://github.com/mengmugai/HookTracerPid) ele7版inlinehook ↑这个项目的TracerPid  inlinehook的一个dome
 - [android webview js注入](https://github.com/mengmugai/webviewdome)  android webview js注入  实现获取html json  输入 点击等功能
+- [puppeteer-render](https://github.com/mengmugai/puppeteer-render)  基于puppeteer和NodeJS的服务端渲染，提供Docker一键部署及API调用接口。在原分支增加获取cookie接口
