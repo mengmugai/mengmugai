@@ -55,7 +55,8 @@ Here are some ideas to get you started:
 
 ## 🔥 My projects:
 
-- [deviceDetection](https://github.com/mengmugai/deviceDetection) - 用于识别安卓手机设备信息及检测环境情况
+- [PhoneCT](https://github.com/mengmugai/PhoneCt)最新开发的设备检测app  检测设备信息 root frida xposed等  还在更新中
+- [deviceDetection](https://github.com/mengmugai/deviceDetection) - 用于识别安卓手机设备信息及检测环境情况(丑  老旧不用了 )
 - [HookTracerPid](https://github.com/mengmugai/HookTracerPid) ele7版inlinehook ↑这个项目的TracerPid  inlinehook的一个dome
 - [android webview js注入](https://github.com/mengmugai/webviewdome)  android webview js注入  实现获取html json  输入 点击等功能
 - [puppeteer-render](https://github.com/mengmugai/puppeteer-render)  基于puppeteer和NodeJS的服务端渲染，提供Docker一键部署及API调用接口。在原分支增加获取cookie接口
